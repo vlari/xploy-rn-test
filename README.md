@@ -28,3 +28,7 @@ I assumed the design of the screen was to pick figures. On a daily basis this wo
 ## Regarding validation*
 
 This working solution assumes there could be only one field left empty when entering figures' values.
+
+![](images/image1.jpg)
+![](images/image2.jpg)
+![](images/image3.jpg)
